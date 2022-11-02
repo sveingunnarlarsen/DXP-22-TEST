@@ -1,0 +1,30 @@
+{
+	"id": "b18c2902-b320-46e5-9dd8-dacaecddcf1a",
+	"createdAt": "2022-06-09T16:13:39.076Z",
+	"createdBy": "rommel",
+	"fields": [
+		{
+			"id": "b5c0d63d-4ae5-4455-d102-d7be863ef679",
+			"fieldName": "TYPE_ID",
+			"fieldType": "mediumtext",
+			"isUnique": true,
+			"isNullable": true
+		},
+		{
+			"id": "6b5bfe7c-abc3-4eac-a186-f08fc6d50e68",
+			"fieldName": "TYPE",
+			"fieldType": "text",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "issue_type_db",
+	"description": null,
+	"ver": "22.10.20.1433",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"rolesRead": [],
+	"rolesWrite": []
+}

@@ -1,0 +1,20 @@
+[
+	{
+		"id": "6a36af3d-a87b-44f0-bdb6-dfb93d543685",
+		"createdAt": "1654104270617",
+		"updatedAt": "1654104270617",
+		"createdBy": "testcafe",
+		"updatedBy": "testcafe",
+		"VERSION_ID": "2",
+		"VERSION": "Open Edition"
+	},
+	{
+		"id": "1332bdea-08db-4235-8659-3e7e976bdf00",
+		"createdAt": "1654104270617",
+		"updatedAt": "1654104270617",
+		"createdBy": "testcafe",
+		"updatedBy": "testcafe",
+		"VERSION_ID": "1",
+		"VERSION": "SAP Edition"
+	}
+]

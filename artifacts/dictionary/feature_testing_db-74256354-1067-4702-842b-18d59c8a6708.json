@@ -1,0 +1,72 @@
+{
+	"id": "74256354-1067-4702-842b-18d59c8a6708",
+	"createdAt": "2022-06-09T20:31:24.510Z",
+	"createdBy": "rommel",
+	"fields": [
+		{
+			"id": "a3c03fd2-0fa5-49a6-f942-85afb7112c1d",
+			"fieldName": "FEATURE_ID",
+			"fieldType": "integer",
+			"isNullable": true
+		},
+		{
+			"id": "7602bce0-fc24-45b6-9d58-8d7bc3f6349e",
+			"fieldName": "TEST_TITLE",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "3238308e-4006-46dd-dad0-6b73679b0fcd",
+			"fieldName": "TEST_STEPS",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "ed3487be-3a6a-4cba-d3dd-56280cca765c",
+			"fieldName": "EXECUTION_STATUS",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "7430c954-0a22-40c9-ab1b-4f20a70730f2",
+			"fieldName": "TEST_RESULT",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "b9eda235-6dfe-4a0e-9bbd-77e6f2c39ce2",
+			"fieldName": "COMMENTS",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "d1d34e0b-9054-42f3-d302-950773c91c1a",
+			"fieldName": "DXP_VERSION",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "2bee7c86-4063-407a-93e8-a5d10402b669",
+			"fieldName": "FEATURE_TEST_ID",
+			"fieldType": "mediumtext",
+			"isNullable": true,
+			"isUnique": true
+		},
+		{
+			"id": "7d1d9310-bfcb-484d-aec3-a406eb512109",
+			"fieldName": "TESTER",
+			"fieldType": "text",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "feature_testing_db",
+	"description": null,
+	"ver": "22.10.26.1127",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"rolesRead": [],
+	"rolesWrite": []
+}

@@ -1,0 +1,18 @@
+{
+	"id": "dc8021be-8f26-4cb1-b3a7-cd010b0d87e4",
+	"createdAt": "2022-06-08T16:55:06.272Z",
+	"createdBy": "rommel",
+	"settings": {
+		"previewable": true,
+		"tableid": "8807a1a6-ad42-44c7-a5ee-327f544c010f",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "application_list_conn",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "22.6.8.1655",
+	"disabled": false,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9"
+}

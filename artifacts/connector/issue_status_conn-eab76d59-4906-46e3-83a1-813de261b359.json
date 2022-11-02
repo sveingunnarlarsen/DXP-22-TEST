@@ -1,0 +1,18 @@
+{
+	"id": "eab76d59-4906-46e3-83a1-813de261b359",
+	"createdAt": "2022-10-11T10:27:33.391Z",
+	"createdBy": "rommel",
+	"settings": {
+		"previewable": true,
+		"tableid": "2cde5d0c-3de2-4664-93e0-236d9400d386",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "issue_status_conn",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "22.10.11.1027",
+	"disabled": false,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9"
+}

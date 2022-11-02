@@ -1,0 +1,17 @@
+{
+	"id": "718de0d1-eadc-4842-80d5-7e863eb88a69",
+	"createdAt": "2022-10-10T21:14:11.823Z",
+	"createdBy": "rommel",
+	"settings": {
+		"tableid": "8807a1a6-ad42-44c7-a5ee-327f544c010f",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "cockpit_apps_conn",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "22.10.10.2114",
+	"disabled": false,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9"
+}

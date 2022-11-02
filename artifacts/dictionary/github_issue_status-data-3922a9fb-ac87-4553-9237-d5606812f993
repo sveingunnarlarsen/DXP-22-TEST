@@ -1,0 +1,52 @@
+[
+	{
+		"id": "8a54b345-20ac-423e-937e-8a21af00e28c",
+		"createdAt": "1654103866181",
+		"updatedAt": "1665143918712",
+		"createdBy": "testcafe",
+		"updatedBy": "rommel",
+		"STATUS_CODE": "3",
+		"STATUS": "Waiting for Verification",
+		"DESCRIPTION": "Ready to be tested and verified"
+	},
+	{
+		"id": "43aeb5a1-0fc7-4192-bdc1-25f493f891eb",
+		"createdAt": "1654887301596",
+		"updatedAt": "1665143918712",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"STATUS_CODE": "4",
+		"STATUS": "Waiting for Re-Build",
+		"DESCRIPTION": "Waiting for the test system to be upgraded"
+	},
+	{
+		"id": "31d9150f-c865-4798-843c-2a4f6e2f0218",
+		"createdAt": "1665143918712",
+		"updatedAt": "1665143918712",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"STATUS_CODE": "5",
+		"STATUS": "Cancelled",
+		"DESCRIPTION": "The fix no longer applicable or has new behavior"
+	},
+	{
+		"id": "2527fee1-67f7-4736-b4a6-1f787cefa764",
+		"createdAt": "1654103601588",
+		"updatedAt": "1665143918712",
+		"createdBy": "testcafe",
+		"updatedBy": "rommel",
+		"STATUS_CODE": "1",
+		"STATUS": "Passed",
+		"DESCRIPTION": "Meets the criteria or the expected result"
+	},
+	{
+		"id": "1eb58f5a-20d1-4148-a70c-9e3759f1077c",
+		"createdAt": "1654103614867",
+		"updatedAt": "1665143918712",
+		"createdBy": "testcafe",
+		"updatedBy": "rommel",
+		"STATUS_CODE": "2",
+		"STATUS": "Failed",
+		"DESCRIPTION": "Does not meet the criteria or the expected result"
+	}
+]

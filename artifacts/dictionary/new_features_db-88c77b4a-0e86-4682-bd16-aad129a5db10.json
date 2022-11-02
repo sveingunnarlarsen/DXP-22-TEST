@@ -1,0 +1,29 @@
+{
+	"id": "88c77b4a-0e86-4682-bd16-aad129a5db10",
+	"createdAt": "2022-06-09T20:27:45.774Z",
+	"createdBy": "rommel",
+	"fields": [
+		{
+			"id": "21d773fc-1154-41b5-d789-85cefa2d578d",
+			"fieldName": "FEATURE",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "9e07f318-5c4e-45f5-ed56-893432b28de0",
+			"fieldName": "FEATURE_ID",
+			"fieldType": "integer",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "new_features_db",
+	"description": null,
+	"ver": "22.10.10.1430",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"rolesRead": [],
+	"rolesWrite": []
+}

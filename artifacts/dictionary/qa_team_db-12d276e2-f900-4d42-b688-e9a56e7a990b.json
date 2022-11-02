@@ -1,0 +1,42 @@
+{
+	"id": "12d276e2-f900-4d42-b688-e9a56e7a990b",
+	"createdAt": "2022-06-10T18:25:20.450Z",
+	"createdBy": "rommel",
+	"fields": [
+		{
+			"id": "d7c16c9c-a6df-4a07-e80e-f92167157352",
+			"fieldName": "TESTER_ID",
+			"fieldType": "mediumtext",
+			"isUnique": true,
+			"isNullable": true
+		},
+		{
+			"id": "a0126380-1e57-4e0a-daf9-f16ce22f52ad",
+			"fieldName": "TESTER",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "c25a3e30-3d6b-4012-b0a1-471081619460",
+			"fieldName": "IS_ACTIVE",
+			"fieldType": "boolean",
+			"isNullable": true
+		},
+		{
+			"id": "532ace94-6db5-41be-8999-a63d6cf2c7ac",
+			"fieldName": "DXP_EDITION",
+			"fieldType": "text",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "qa_team_db",
+	"description": null,
+	"ver": "22.10.11.2234",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"rolesRead": [],
+	"rolesWrite": []
+}

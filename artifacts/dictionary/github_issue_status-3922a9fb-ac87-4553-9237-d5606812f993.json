@@ -1,0 +1,36 @@
+{
+	"id": "3922a9fb-ac87-4553-9237-d5606812f993",
+	"createdAt": "2022-06-01T17:12:21.258Z",
+	"createdBy": "testcafe",
+	"fields": [
+		{
+			"id": "7fe7cf48-7462-48ba-fe13-c54445cbf2a8",
+			"fieldName": "STATUS_CODE",
+			"fieldType": "mediumtext",
+			"isUnique": true,
+			"isNullable": true
+		},
+		{
+			"id": "24724f99-43aa-4d13-a27f-f266272b2295",
+			"fieldName": "STATUS",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "3330b513-c85c-4999-8233-063042a06c82",
+			"fieldName": "DESCRIPTION",
+			"fieldType": "text",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "github_issue_status",
+	"description": "Github issue status",
+	"ver": "22.10.11.2229",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"rolesRead": [],
+	"rolesWrite": []
+}

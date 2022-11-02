@@ -1,0 +1,125 @@
+{
+	"id": "58dc842d-a092-453e-a325-118ba6f8049d",
+	"createdAt": "2022-10-10T21:25:57.321Z",
+	"createdBy": "rommel",
+	"settings": {
+		"properties": {
+			"report": {
+				"showIcon": true,
+				"iconButtonClose": "",
+				"textButtonClose": "Close",
+				"typeButtonClose": "Reject",
+				"iconButtonSave": "",
+				"textButtonSave": "Save",
+				"textToastSave": "Saved",
+				"typeButtonSave": "Accept",
+				"tab0Text": "General",
+				"tab1Text": "Tab 1",
+				"tab2Text": "Tab 2",
+				"tab3Text": "Tab 3",
+				"tab4Text": "Tab 4",
+				"tab5Text": "Tab 5",
+				"enableClose": true,
+				"enableSave": true,
+				"enableTab1": false,
+				"enableTab2": false,
+				"enableTab3": false,
+				"enableTab4": false,
+				"enableTab5": false,
+				"title": "Neptune DXP Application",
+				"subTitle": "Manage Neptune DXP application",
+				"avatarIcon": "sap-icon://tnt/application-service",
+				"avatarBackgroundColor": "Accent1"
+			},
+			"form": {
+				"enableCompact": false,
+				"enableCentered": true
+			},
+			"table": {}
+		},
+		"fieldCatalog": [
+			{
+				"name": "NAME",
+				"label": "NAME",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "APP_ID",
+				"label": "APP_ID",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedAt",
+				"label": "Updated At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdAt",
+				"label": "Created At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedBy",
+				"label": "Updated By",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdBy",
+				"label": "Created By",
+				"type": "text",
+				"usage": "BOTH"
+			}
+		],
+		"fieldsSel": [
+			{
+				"editable": true,
+				"visible": true,
+				"name": "APP_ID",
+				"text": "Application ID",
+				"fieldPos": 1,
+				"scriptValue": "38821e6a-a33d-4a99-915d-c7825ec47d59"
+			},
+			{
+				"editable": true,
+				"visible": true,
+				"name": "NAME",
+				"text": "Application Name",
+				"fieldPos": 2,
+				"required": true
+			}
+		],
+		"fieldsRun": [],
+		"defaultVariant": {
+			"id": "d3cf1534-1a7b-4bca-9112-5643a6dbf49e",
+			"colOrder": "key_a_to_z",
+			"rowOrder": "key_a_to_z",
+			"row": [],
+			"column": [],
+			"val": [],
+			"inclusions": {},
+			"exclusions": {}
+		}
+	},
+	"name": "cockpit_apps_edit",
+	"description": "",
+	"group": "",
+	"type": "C",
+	"connectorid": "718de0d1-eadc-4842-80d5-7e863eb88a69",
+	"scriptSel": null,
+	"scriptRun": null,
+	"tableid": null,
+	"ver": "22.10.10.2145",
+	"disabled": false,
+	"appType": "A",
+	"application": "planet9_adaptive_edit",
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"roles": [],
+	"scriptSelObj": null,
+	"scriptRunObj": null,
+	"tableObj": null
+}

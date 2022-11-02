@@ -1,0 +1,110 @@
+[
+	{
+		"id": "b9a35cc3-0178-46a1-a20e-9f89db7e0634",
+		"createdAt": "1664403013199",
+		"updatedAt": "1664482534810",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Table Column Sorting",
+		"FEATURE_ID": 8
+	},
+	{
+		"id": "b94e3398-eb98-4c26-aee0-e31e9a66fcef",
+		"createdAt": "1654806589485",
+		"updatedAt": "1664482534810",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Custom Components",
+		"FEATURE_ID": 3
+	},
+	{
+		"id": "75dab44a-3215-4274-88f9-451961347564",
+		"createdAt": "1664222860933",
+		"updatedAt": "1664482967436",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Others",
+		"FEATURE_ID": 100
+	},
+	{
+		"id": "748320d6-dd60-400c-bd62-a275bf850ec4",
+		"createdAt": "1654806543756",
+		"updatedAt": "1664482534810",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "WCAG A & AA Compliance",
+		"FEATURE_ID": 5
+	},
+	{
+		"id": "5fefecfc-285a-4417-8cf6-3890d9a1c46f",
+		"createdAt": "1654806563267",
+		"updatedAt": "1664482534810",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Connectors",
+		"FEATURE_ID": 2
+	},
+	{
+		"id": "478d7547-6c10-44d8-a679-461f1901ef5b",
+		"createdAt": "1664398556265",
+		"updatedAt": "1664482534810",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Variants in API Client",
+		"FEATURE_ID": 6
+	},
+	{
+		"id": "3ade4a5e-756e-46c0-9f61-3e5fd4302ce8",
+		"createdAt": "1664450915957",
+		"updatedAt": "1664482534810",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Filter Visible Libraries",
+		"FEATURE_ID": 9
+	},
+	{
+		"id": "2fc33fa6-1ab5-42dc-820e-f80e46e9c06a",
+		"createdAt": "1654806575924",
+		"updatedAt": "1664482534810",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Highcharts",
+		"FEATURE_ID": 4
+	},
+	{
+		"id": "2a6377e7-1686-4396-8ba5-5eef2957395f",
+		"createdAt": "1664487304194",
+		"updatedAt": "1664487304194",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Horizon Theme on Cockpit and Designers",
+		"FEATURE_ID": 11
+	},
+	{
+		"id": "0a5b6b09-e779-4cd3-a341-f28faaacb209",
+		"createdAt": "1665405062175",
+		"updatedAt": "1665405062175",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Fixed CDN Versions",
+		"FEATURE_ID": 12
+	},
+	{
+		"id": "0471de7d-0fe0-4085-965e-63a642e4dccf",
+		"createdAt": "1654806609460",
+		"updatedAt": "1664482534810",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Advanced TypeScript Support",
+		"FEATURE_ID": 1
+	},
+	{
+		"id": "037b2d9b-fad9-4cab-99c1-4d364ba668f5",
+		"createdAt": "1664481717375",
+		"updatedAt": "1664482534810",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"FEATURE": "Start Screen In App Designer",
+		"FEATURE_ID": 10
+	}
+]

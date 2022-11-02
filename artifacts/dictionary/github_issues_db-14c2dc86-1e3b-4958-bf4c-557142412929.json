@@ -1,0 +1,66 @@
+{
+	"id": "14c2dc86-1e3b-4958-bf4c-557142412929",
+	"createdAt": "2022-06-01T16:54:35.702Z",
+	"createdBy": "testcafe",
+	"fields": [
+		{
+			"id": "d6a90102-b36f-4952-eab1-f168a54cbc9e",
+			"fieldName": "ISSUE_ID",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "71302cce-9897-4d31-88e6-2649b9cabad3",
+			"fieldName": "ISSUE_TITLE",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "f006c97a-2905-437f-8c53-c8d31c6c7a84",
+			"fieldName": "COMMENTS",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "4a551ac5-cf41-405a-e50a-4e1ed194e211",
+			"fieldName": "DXP_EDITION",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "4e87faa3-a66c-40f4-fe34-58c26fbd6825",
+			"fieldName": "VERIFICATION_STEPS",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "09927aac-0b14-4009-89c8-625dddabac6b",
+			"fieldName": "VERIFICATION_STATUS",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "2f3b6e03-ffdb-4173-dcd7-92d460bf4bf1",
+			"fieldName": "REMARKS",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "d9e02315-f113-4189-ee2a-6546bbd7f9b1",
+			"fieldName": "TESTER",
+			"fieldType": "text",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "github_issues_db",
+	"description": "List of fixed issues that require re-verification",
+	"ver": "22.10.26.1128",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"rolesRead": [],
+	"rolesWrite": []
+}

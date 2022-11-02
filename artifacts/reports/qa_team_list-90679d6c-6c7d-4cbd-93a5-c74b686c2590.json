@@ -1,0 +1,232 @@
+{
+	"id": "90679d6c-6c7d-4cbd-93a5-c74b686c2590",
+	"createdAt": "2022-10-10T20:33:51.423Z",
+	"createdBy": "rommel",
+	"settings": {
+		"properties": {
+			"report": {
+				"showIcon": true,
+				"iconButtonClose": "",
+				"textButtonClose": "Close",
+				"typeButtonClose": "Transparent",
+				"iconButtonCreate": "",
+				"textButtonCreate": "Create",
+				"typeButtonCreate": "Accept",
+				"iconButtonExport": "sap-icon://excel-attachment",
+				"textButtonExport": "",
+				"typeButtonExport": "Transparent",
+				"iconButtonImport": "sap-icon://fa-solid/file-import",
+				"textButtonImport": "",
+				"typeButtonImport": "Transparent",
+				"iconButtonMultiSelect": "",
+				"textButtonMultiSelect": "MultiSelect",
+				"typeButtonMultiSelect": "Emphasized",
+				"iconButtonRun": "",
+				"textButtonRun": "Update",
+				"typeButtonRun": "Default",
+				"enableRun": true,
+				"enableCreate": true,
+				"enableClose": false,
+				"enableDelete": true,
+				"enableExport": false,
+				"enableImport": false,
+				"enableMultiSelect": false,
+				"enableVariant": false,
+				"hideHeader": false,
+				"autoRun": true,
+				"autoRunFocus": false,
+				"searchLabel": "Search",
+				"searchPlaceholder": "",
+				"title": "QA Team",
+				"subTitle": "Responsible testers for Neptune DXP 22 LTS",
+				"_navigationCreate": {
+					"destinationType": "F",
+					"openAs": "D",
+					"butType": "Accept",
+					"destinationTargetF": "96bea92d-4ccc-4003-846b-53b501db8e20",
+					"keyField": [],
+					"dialogHeight": "430px",
+					"dialogWidth": "600px"
+				},
+				"_navigationItemPress": {
+					"destinationType": "F",
+					"openAs": "D",
+					"butType": "Accept",
+					"destinationTargetF": "96bea92d-4ccc-4003-846b-53b501db8e20",
+					"keyField": [],
+					"dialogWidth": "600px",
+					"dialogHeight": "430px"
+				},
+				"avatarBackgroundColor": "Accent1",
+				"avatarIcon": "sap-icon://group"
+			},
+			"form": {
+				"enableCompact": true,
+				"headerExpanded": true
+			},
+			"table": {
+				"enablePagination": false,
+				"paginationShowSelection": false,
+				"paginationRows": 25,
+				"action1Text": "",
+				"action1Type": "Transparent",
+				"action2Text": "",
+				"action2Type": "Transparent",
+				"action3Text": "",
+				"action3Type": "Transparent",
+				"alternateRowColors": true,
+				"enableCompact": true,
+				"enableAction1": false,
+				"enableAction2": false,
+				"enableAction3": false,
+				"fixedLayout": true,
+				"inset": false,
+				"initialSortField": "TESTER",
+				"initialSortOrder": "ASC",
+				"initialGroupField": "DXP_EDITION",
+				"initialGroupOrder": "ASC"
+			}
+		},
+		"fieldCatalog": [
+			{
+				"name": "DXP_EDITION",
+				"label": "DXP_EDITION",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "IS_ACTIVE",
+				"label": "IS_ACTIVE",
+				"type": "boolean",
+				"usage": "BOTH"
+			},
+			{
+				"name": "TESTER",
+				"label": "TESTER",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "TESTER_ID",
+				"label": "TESTER_ID",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdAt",
+				"label": "Created At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "createdBy",
+				"label": "Created By",
+				"type": "text",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedAt",
+				"label": "Updated At",
+				"type": "timestamp",
+				"usage": "BOTH"
+			},
+			{
+				"name": "updatedBy",
+				"label": "Updated By",
+				"type": "text",
+				"usage": "BOTH"
+			}
+		],
+		"fieldsSel": [
+			{
+				"visible": true,
+				"name": "DXP_EDITION",
+				"text": "DXP Edition",
+				"fieldPos": 1,
+				"type": "SingleSelectLookup",
+				"lookupTable": "neptune_dxp_version",
+				"lookupFieldKey": "VERSION_ID",
+				"lookupFieldText": "VERSION",
+				"lookupShowOnlyText": true
+			}
+		],
+		"fieldsRun": [
+			{
+				"enableFilter": true,
+				"enableSort": true,
+				"visible": true,
+				"name": "TESTER_ID",
+				"text": "QA TESTER ID",
+				"fieldPos": 2
+			},
+			{
+				"enableFilter": true,
+				"enableSort": true,
+				"visible": true,
+				"name": "TESTER",
+				"text": "NAME",
+				"fieldPos": 3
+			},
+			{
+				"enableFilter": true,
+				"enableSort": true,
+				"visible": false,
+				"name": "DXP_EDITION",
+				"text": "ASSIGNED DXP",
+				"fieldPos": 4,
+				"valueType": "Lookup",
+				"valueLookup": {
+					"table": "neptune_dxp_version",
+					"textField": "VERSION",
+					"keyField": [
+						{
+							"fieldName": "VERSION_ID",
+							"key": "DXP_EDITION",
+							"value": ""
+						}
+					],
+					"hideKey": true,
+					"butType": "Accept"
+				},
+				"formatter": "uppercase"
+			},
+			{
+				"enableFilter": false,
+				"enableSort": false,
+				"visible": true,
+				"name": "IS_ACTIVE",
+				"text": "ACTIVE",
+				"fieldPos": 5,
+				"type": "Switch",
+				"editable": true
+			}
+		],
+		"defaultVariant": {
+			"id": "92adf5d2-0adf-4d12-e7d3-5bca001c4623",
+			"colOrder": "key_a_to_z",
+			"rowOrder": "key_a_to_z",
+			"row": [],
+			"column": [],
+			"val": [],
+			"inclusions": {},
+			"exclusions": {}
+		}
+	},
+	"name": "qa_team_list",
+	"description": "",
+	"group": "",
+	"type": "C",
+	"connectorid": "9e69c78b-e7c8-4de4-8769-8b110a57bb7f",
+	"scriptSel": null,
+	"scriptRun": null,
+	"tableid": null,
+	"ver": "22.10.10.213",
+	"disabled": false,
+	"appType": "A",
+	"application": "planet9_adaptive_list",
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"roles": [],
+	"scriptSelObj": null,
+	"scriptRunObj": null,
+	"tableObj": null
+}

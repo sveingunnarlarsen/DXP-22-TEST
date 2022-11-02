@@ -1,0 +1,17 @@
+{
+	"id": "3f6dda31-f646-4833-b4b1-89c6b1565b7d",
+	"createdAt": "2022-06-01T16:59:24.256Z",
+	"createdBy": "testcafe",
+	"settings": {
+		"tableid": "14c2dc86-1e3b-4958-bf4c-557142412929",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "github_issue_conn",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "22.6.1.1659",
+	"disabled": false,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9"
+}

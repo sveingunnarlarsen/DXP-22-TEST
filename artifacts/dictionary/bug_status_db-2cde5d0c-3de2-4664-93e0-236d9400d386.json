@@ -1,0 +1,36 @@
+{
+	"id": "2cde5d0c-3de2-4664-93e0-236d9400d386",
+	"createdAt": "2022-06-08T17:26:27.120Z",
+	"createdBy": "rommel",
+	"fields": [
+		{
+			"id": "55b5d0af-5cc9-4348-9287-ff7159c753cb",
+			"fieldName": "STATUS_ID",
+			"fieldType": "mediumtext",
+			"isNullable": true,
+			"isUnique": true
+		},
+		{
+			"id": "5585acf2-e567-4cec-ed41-e1e48cb46686",
+			"fieldName": "STATUS",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "eea72ed7-81e0-46d7-c14d-28e36ccb94dc",
+			"fieldName": "DESCRIPTION",
+			"fieldType": "text",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "bug_status_db",
+	"description": "Issue status",
+	"ver": "22.10.11.1750",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"rolesRead": [],
+	"rolesWrite": []
+}

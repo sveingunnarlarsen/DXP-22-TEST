@@ -1,0 +1,18 @@
+{
+	"id": "9e69c78b-e7c8-4de4-8769-8b110a57bb7f",
+	"createdAt": "2022-10-10T19:58:43.739Z",
+	"createdBy": "rommel",
+	"settings": {
+		"previewable": true,
+		"tableid": "12d276e2-f900-4d42-b688-e9a56e7a990b",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "qa_team_conn",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "22.10.10.1958",
+	"disabled": false,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9"
+}

@@ -1,0 +1,30 @@
+{
+	"id": "80baa81e-f95e-4fdd-94c8-0fda01803e60",
+	"createdAt": "2022-06-01T17:23:58.045Z",
+	"createdBy": "testcafe",
+	"fields": [
+		{
+			"id": "1b376467-d168-4d6f-8ae3-664c7108fbff",
+			"fieldName": "VERSION_ID",
+			"fieldType": "mediumtext",
+			"isUnique": true,
+			"isNullable": true
+		},
+		{
+			"id": "bb1aefe0-24e4-46b6-bb60-576bc9675378",
+			"fieldName": "VERSION",
+			"fieldType": "text",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "neptune_dxp_version",
+	"description": null,
+	"ver": "22.10.11.2217",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"rolesRead": [],
+	"rolesWrite": []
+}

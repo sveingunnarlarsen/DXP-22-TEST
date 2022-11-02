@@ -1,0 +1,36 @@
+{
+	"id": "2eb4ba05-00a6-477d-8348-415f8464c21a",
+	"createdAt": "2022-06-09T20:49:13.358Z",
+	"createdBy": "rommel",
+	"fields": [
+		{
+			"id": "44cf6b35-bad7-427f-e405-7cdf184df260",
+			"fieldName": "STATUS_ID",
+			"fieldType": "mediumtext",
+			"isUnique": true,
+			"isNullable": true
+		},
+		{
+			"id": "89c059dc-3d21-4009-b3fe-47bd12406fb8",
+			"fieldName": "STATUS",
+			"fieldType": "text",
+			"isNullable": true
+		},
+		{
+			"id": "7f53f44e-e030-4466-ad9f-e0630320b4f8",
+			"fieldName": "DESCRIPTION",
+			"fieldType": "text",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "test_execution_status",
+	"description": null,
+	"ver": "22.10.20.1429",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9",
+	"rolesRead": [],
+	"rolesWrite": []
+}

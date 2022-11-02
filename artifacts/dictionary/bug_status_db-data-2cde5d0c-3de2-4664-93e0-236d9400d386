@@ -1,0 +1,82 @@
+[
+	{
+		"id": "ba4c6733-36cb-431d-bb07-7913f989f8dc",
+		"createdAt": "1654886404564",
+		"updatedAt": "1665149770665",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"STATUS_ID": "6",
+		"STATUS": "Deferred",
+		"DESCRIPTION": "Development will take a look in next LTS"
+	},
+	{
+		"id": "b2bc9c57-be7f-4e26-9201-01f50d1b2854",
+		"createdAt": "1654709406407",
+		"updatedAt": "1665149770665",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"STATUS_ID": "2",
+		"STATUS": "Not a Bug",
+		"DESCRIPTION": "It is designed as expected and not an issue"
+	},
+	{
+		"id": "882318b6-d4c1-46df-8b95-0bc688237f42",
+		"createdAt": "1654709406407",
+		"updatedAt": "1665149770665",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"STATUS_ID": "4",
+		"STATUS": "Not Reproducible",
+		"DESCRIPTION": "Unable to re-create the issue"
+	},
+	{
+		"id": "75dd750b-f223-4161-ae26-0285b09c2ed8",
+		"createdAt": "1654709406407",
+		"updatedAt": "1665149770665",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"STATUS_ID": "1",
+		"STATUS": "Open",
+		"DESCRIPTION": "Newly created issue"
+	},
+	{
+		"id": "3c50c658-981a-4c91-9e19-2dc2ff83717b",
+		"createdAt": "1663610782927",
+		"updatedAt": "1665152136609",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"STATUS_ID": "8",
+		"STATUS": "Won't Do",
+		"DESCRIPTION": "Feature request won't be done"
+	},
+	{
+		"id": "394f388b-1867-4921-a408-77d0c0eca50b",
+		"createdAt": "1655369342568",
+		"updatedAt": "1665152136609",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"STATUS_ID": "7",
+		"STATUS": "Fix in Next Build",
+		"DESCRIPTION": "Fix is provided but will be available in the next upgrade"
+	},
+	{
+		"id": "2a0fdeda-24d3-4df2-99ca-c4177f9391f4",
+		"createdAt": "1654709406407",
+		"updatedAt": "1665149770665",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"STATUS_ID": "5",
+		"STATUS": "Verified as Fixed",
+		"DESCRIPTION": "Solution has been tested and verified as fixed"
+	},
+	{
+		"id": "271a258c-b2c6-4081-8431-58700ab836ed",
+		"createdAt": "1654709406407",
+		"updatedAt": "1665149770665",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"STATUS_ID": "3",
+		"STATUS": "Waiting for Verification",
+		"DESCRIPTION": "Fix is provided and it is ready to be verified on the test system"
+	}
+]

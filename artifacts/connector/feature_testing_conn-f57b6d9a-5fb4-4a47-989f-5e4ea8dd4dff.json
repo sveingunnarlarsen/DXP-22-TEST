@@ -1,0 +1,18 @@
+{
+	"id": "f57b6d9a-5fb4-4a47-989f-5e4ea8dd4dff",
+	"createdAt": "2022-06-09T20:35:01.533Z",
+	"createdBy": "rommel",
+	"settings": {
+		"previewable": true,
+		"tableid": "74256354-1067-4702-842b-18d59c8a6708",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "feature_testing_conn",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "22.6.9.2035",
+	"disabled": false,
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9"
+}

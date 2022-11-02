@@ -1,0 +1,20 @@
+[
+	{
+		"id": "d0502815-53a4-4423-97a5-36cbe3a1ab9a",
+		"createdAt": "1654791256295",
+		"updatedAt": "1654791256295",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"TYPE_ID": "1",
+		"TYPE": "Bug"
+	},
+	{
+		"id": "81b008a3-91fa-4c46-8799-901fafeca1f8",
+		"createdAt": "1654791256295",
+		"updatedAt": "1654791256295",
+		"createdBy": "rommel",
+		"updatedBy": "rommel",
+		"TYPE_ID": "2",
+		"TYPE": "Feature Request"
+	}
+]
