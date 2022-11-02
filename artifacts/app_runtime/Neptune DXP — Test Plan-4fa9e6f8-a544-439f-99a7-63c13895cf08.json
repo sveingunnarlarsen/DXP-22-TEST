@@ -25,6 +25,13 @@
 					"response": [],
 					"attributes": [
 						{
+							"attribute": "title",
+							"grouping": "Properties",
+							"value": "Page title",
+							"script": "",
+							"translation": []
+						},
+						{
 							"attribute": "showHeader",
 							"grouping": "Properties",
 							"value": "false",
@@ -95,7 +102,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "22.10.25.1558",
+	"ver": "22.11.2.1426",
 	"application": "test_plan",
 	"title": "Neptune DXP — Test Plan",
 	"description": "",
