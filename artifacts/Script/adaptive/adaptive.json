@@ -1,0 +1,20 @@
+{
+	"id": "ec2feb3c-480e-4f37-b7aa-3efd273b3479",
+	"createdAt": "2022-10-24T20:07:09.397Z",
+	"createdBy": "rommel",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "adaptive",
+	"ver": "22.10.24.207",
+	"description": null,
+	"content": "",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "804a083b-b0df-447e-a677-91db0212db0a",
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9"
+}

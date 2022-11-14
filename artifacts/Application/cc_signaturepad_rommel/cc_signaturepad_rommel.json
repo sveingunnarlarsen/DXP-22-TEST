@@ -1,0 +1,74 @@
+{
+	"id": "17b62886-26a9-430e-8c0e-c0fcacea1dcd",
+	"createdAt": "2022-05-20T10:30:54.557Z",
+	"createdBy": "testcafe",
+	"objects": [
+		{
+			"fieldNo": "3348a020-ed82-4d49-85c9-f0b301ad5614",
+			"fieldName": "oHTMLObjectSignaturePad",
+			"fieldParent": 0,
+			"fieldType": "sap.ui.core.HTML",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": []
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": {
+		"icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iNTEycHgiIGhlaWdodD0iNTEycHgiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxwYXRoIGQ9Ik00NDgsMTc3LjE0VjQ0OGMwLDM1LjM0NC0yOC42NTYsNjQtNjQsNjRINjRjLTM1LjM0NCwwLTY0LTI4LjY1Ni02NC02NFYxMjhjMC0zNS4zNDQsMjguNjU2LTY0LDY0LTY0aDI3MC44NDRsLTYzLjk2OSw2NA0KCUg2NHYzMjBoMzIwVjI0MS4xNTZMNDQ4LDE3Ny4xNHogTTM5OC44NzUsNDUuMjVMMzc2LjI1LDY3Ljg3NWw2Ny44NzUsNjcuODkxbDIyLjYyNS0yMi42MjVMMzk4Ljg3NSw0NS4yNXogTTQ0NC4xMjUsMEw0MjEuNSwyMi42MjUNCglsNjcuODc1LDY3Ljg5MUw1MTIsNjcuODc1TDQ0NC4xMjUsMHogTTE1MCwyOTQuMTg3bDY3Ljg3NSw2Ny44NzVMNDIxLjUsMTU4LjQwNmwtNjcuODc1LTY3Ljg5MUwxNTAsMjk0LjE4N3ogTTEyOCwzODRoNjRsLTY0LTY0DQoJVjM4NHoiLz4NCjwvc3ZnPg0K",
+		"documentation": "",
+		"containerId": null,
+		"attributes": [],
+		"topLevelObjects": [
+			"sap.ui.core.HTML"
+		]
+	},
+	"ver": "22.10.20.1711",
+	"application": "cc_signaturepad_rommel",
+	"title": "UTIL",
+	"description": "Signature Pad",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "E",
+	"ui5_m": false,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_belize",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"header": "file:///header.script",
+	"manifest": "",
+	"globalScript": "",
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"apis": [],
+	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9"
+}

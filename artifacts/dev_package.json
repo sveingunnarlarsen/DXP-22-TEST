@@ -4,12 +4,12 @@
 	"createdBy": "testcafe",
 	"git": {
 		"targetServers": [],
-		"remote": "https://github.com/sveingunnarlarsen/DXP-22-TEST.git",
+		"remote": "https://github.com/sveingunnarlarsen/DXP-22-TEST",
 		"testServers": []
 	},
 	"name": "22-LTS Test",
 	"description": null,
-	"ver": "22.11.7.1015",
+	"ver": "22.11.14.1420",
 	"enableCICD": true,
 	"apps": [
 		{
