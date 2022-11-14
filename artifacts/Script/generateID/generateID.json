@@ -9,22 +9,12 @@
 	"name": "generateID",
 	"ver": "22.10.10.2010",
 	"description": null,
-	"content": [
-		"==OBJECT STRING==",
-		"result.data = generateID();\r",
-		"\r",
-		"complete();\r",
-		"\r",
-		"function generateID() {\r",
-		"    var minm = 10000;\r",
-		"    var maxm = 99999;\r",
-		"    return Math.floor(Math.random() * (maxm - minm + 1)) + minm;\r",
-		"}"
-	],
+	"content": "file:///content.script",
 	"useAsGlobalScript": false,
-	"isTypescript": false,
 	"transpiledContent": null,
 	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
 	"jsscriptGroup": "804a083b-b0df-447e-a677-91db0212db0a",
 	"package": "cab27bc9-5c23-45f1-add2-e0d5fe7e95b9"
 }
